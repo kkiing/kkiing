@@ -8,3 +8,5 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkiing&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkiing&layout=compact&theme=tokyonight)
+
