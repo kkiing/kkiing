@@ -6,5 +6,5 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkiings&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkiing&show_icons=true&theme=tokyonight)
 
