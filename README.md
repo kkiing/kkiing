@@ -1,4 +1,3 @@
-<div align="center">
 <h1 align="left">Hi there 👋</h1>
 
 <h3 align="left">🌈 Follow Me 🌈</h3>
@@ -18,10 +17,4 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 </p>
 
-
-
-##
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkiing&show_icons=true&theme=vue) <img src="http://mazandi.herokuapp.com/api?handle=kkiing&theme=cold"/>
-    
-</div>
