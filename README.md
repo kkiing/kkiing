@@ -1,23 +1,3 @@
-
-<div align = "center">
-
-<br/>
-<h3>Hi There 👋</h3><br/>
-
- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-<br/>
-﹏﹏﹏﹏﹏﹏﹏
-<br/> 
-<h3>💻 Tech Stack 💻</h3> 
-<br/>
-
- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
 <h1 align="center"> KKIING</h1>
 <h3 align="center"> Hi there 👋</h3>
 
@@ -61,9 +41,6 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 📫 How to reach me: ...</h3>
 <p align="center">
-  <a href="https://miro7923.github.io/"><img src="https://img.shields.io/badge/-TechBlog-brightgreen">&nbsp
-  <a href="mailto:miro7923@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
+  <a href="https://www.instagram.com/control_record/?hl=ko"><img src="https://img.shields.io/badge/-Instagram-brightgreen">&nbsp
+  <a href="ydc0606@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
-
-[![Yujin's github stats](https://github-readme-stats.vercel.app/api?username=miro7923)](https://github.com/miro7923)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miro7923&layout=compact)](https://github.com/miro7923/github-readme-stats)
