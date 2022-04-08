@@ -9,5 +9,5 @@
 <h3 align="left">💌 Contact 💌</h3>
 <p align="left">
   <a href="https://www.instagram.com/control_record/?hl=ko"><img src="https://img.shields.io/badge/-Instagram-hotpink">&nbsp
-  <img src="https://img.shields.io/badge/Instagram-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Instagram-00599C?style=flat-square&logo=InstagramogoColor=hotpink"/></a>
 </p>
