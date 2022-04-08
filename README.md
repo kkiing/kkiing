@@ -1,7 +1,7 @@
 <h1 align="left">Hi there 👋</h1> 
 
 <p align="left">
-  <a href="https://hits.kkiing.com"><img src="https://hits.kiing.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=true)](https://hits.seeyoufarm.com)
 </p>
 
 <h3 align="left">🌈 Follow Me 🌈</h3>
