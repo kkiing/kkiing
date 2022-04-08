@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br>
 </p>
 
-<h3 align="left">💌 SNS 💌</h3>
+<h3 align="left">💌 Contact 💌</h3>
 <p align="left">
   <a href="https://www.instagram.com/control_record/?hl=ko"><img src="https://img.shields.io/badge/-Instagram-hotpink">&nbsp
   <a href="ydc0606@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
