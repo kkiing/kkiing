@@ -39,8 +39,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br>
 </p>
 
-<h3 align="center"> 📫 How to reach me: ...</h3>
+<h3 align="center"> 📫 SNS 📫</h3>
 <p align="center">
-  <a href="https://www.instagram.com/control_record/?hl=ko"><img src="https://img.shields.io/badge/-Instagram-brightgreen">&nbsp
+  <a href="https://www.instagram.com/control_record/?hl=ko"><img src="https://img.shields.io/badge/-Instagram-critical">&nbsp
   <a href="ydc0606@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
