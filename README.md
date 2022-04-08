@@ -15,6 +15,6 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
-</p>
+</p>![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkiing&show_icons=true&theme=vue) <img src="http://mazandi.herokuapp.com/api?handle=kkiing&theme=cold"/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkiing&show_icons=true&theme=vue) <img src="http://mazandi.herokuapp.com/api?handle=kkiing&theme=cold"/>
+
