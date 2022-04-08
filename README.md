@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 
 <h3 align="center"> 📫 SNS 📫</h3>
 <p align="center">
-  <a href="https://www.instagram.com/control_record/?hl=ko"><img src="https://img.shields.io/badge/-Instagram-pink">&nbsp
+  <a href="https://www.instagram.com/control_record/?hl=ko"><img src="https://img.shields.io/badge/-Instagram-hotpink">&nbsp
   <a href="ydc0606@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
