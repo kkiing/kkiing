@@ -61,10 +61,6 @@
 
 ##
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkiing&show_icons=true&theme=vue)
-
-##
-    
-<img src="http://mazandi.herokuapp.com/api?handle=kkiing&theme=cold"/>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kkiing&show_icons=true&theme=vue) <img src="http://mazandi.herokuapp.com/api?handle=kkiing&theme=cold"/>
     
 </div>
