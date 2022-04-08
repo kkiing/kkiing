@@ -1,9 +1,6 @@
 <div align="center">
 <h3 align="left">Hi there 👋</h3>
 
-    
-##
-    
 <h3 align="left">🌈 Follow Me 🌈</h3>
 <p align="left">
   <a href="https://www.instagram.com/control_record/?hl=ko"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/control_record/?hl=ko"/></a>&nbsp
