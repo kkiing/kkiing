@@ -1,21 +1,8 @@
 <h1 align="center"> KKIING</h1>
-<h3 align="center"> Hi there 👋</h3>
+<h3 align="left"> Hi there 👋</h3>
 
-<!--
-**miro7923/miro7923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<br>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 align="center"> 💻 Tech Stack 💻</h3>
-<p align="center">
+<h3 align="left"> 💻 Tech Stack 💻</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-Sharp-239120?style=flat-square&logo=C-Sharp&logoColor=white"/></a>&nbsp 
@@ -37,8 +24,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp<br><br>
 </p>
 
-<h3 align="center"> 📫 SNS 📫</h3>
-<p align="center">
+<h3 align="left"> 📫 SNS 📫</h3>
+<p align="left">
   <a href="https://www.instagram.com/control_record/?hl=ko"><img src="https://img.shields.io/badge/-Instagram-hotpink">&nbsp
   <a href="ydc0606@gmail.com"><img src="https://img.shields.io/badge/-Gmail-critical"><br>
 </p>
