@@ -9,5 +9,5 @@
 <h3 align="left">💌 Contact 💌</h3>
 <p align="left">
 <a href="https://www.instagram.com/control_record/?hl=ko">
-    <img src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/control_record/?hl=ko"</a>
+    <img src="http://img.shields.io/badge/-Instagram-white?style=round&logo=Instagram&link=https://www.instagram.com/control_record/?hl=ko"</a>
 </p>
