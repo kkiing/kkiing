@@ -65,6 +65,6 @@
 
 ##
     
-<img src="http://mazandi.herokuapp.com/api?handle=kkiing&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=kkiing&theme=dark"/>
     
 </div>
