@@ -8,6 +8,9 @@
 
 <h3 align="left">💌 Contact 💌</h3>
 <p align="left">
-  <a href="https://www.instagram.com/control_record/?hl=ko"><img src="https://img.shields.io/badge/-Instagram-hotpink">&nbsp
-  <img src="https://img.shields.io/badge/Instagram-00599C?style=flat-square&logo=InstagramogoColor=hotpink"/></a>
-</p>
+<a href="https://www.instagram.com/control_record/?hl=ko">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/control_record/?hl=ko"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ </p>
